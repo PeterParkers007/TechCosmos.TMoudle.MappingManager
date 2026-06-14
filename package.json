@@ -1,0 +1,21 @@
+{
+    "name": "com.techcosmos.mapping-manager",
+    "version": "1.0.0",
+    "displayName": "Mapping Manager",
+    "description": "类型安全的双向映射管理器。在 MonoBehaviour 之间建立显式的、可查询的关联关系，支持正向查询、反向追溯与自动生命周期清理。",
+    "unity": "2021.3",
+    "documentationUrl": "https://github.com/TechCosmos/MappingManager",
+    "changelogUrl": "https://github.com/TechCosmos/MappingManager/releases",
+    "licensesUrl": "https://github.com/TechCosmos/MappingManager/blob/main/LICENSE",
+    "keywords": [
+        "mapping",
+        "relation",
+        "bidirectional",
+        "type-safe",
+        "decoupling"
+    ],
+    "author": {
+        "name": "Tech-Cosmos",
+        "url": "https://github.com/PeterParkers007/TechCosmos.TMoudle.MappingManager"
+    }
+}

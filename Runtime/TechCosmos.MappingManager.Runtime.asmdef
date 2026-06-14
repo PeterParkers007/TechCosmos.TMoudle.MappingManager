@@ -1,0 +1,14 @@
+{
+    "name": "TechCosmos.MappingManager.Runtime",
+    "rootNamespace": "TechCosmos.MappingManager.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
