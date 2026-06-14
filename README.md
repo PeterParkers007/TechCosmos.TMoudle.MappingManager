@@ -386,7 +386,7 @@ public void Clear()
 
 ### 打开方式
 
-Unity 菜单 → `Tools` → `Mapping Manager` → `Open Debugger`
+Unity 菜单 → `Tech-Cosmos` → `Mapping Manager` → `Open Debugger`
 
 ### 功能一览
 
